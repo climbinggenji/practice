@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+# preview
+
+![img](https://github.com/climbinggenji/practice/blob/master/static/preview.png)
+
 ## Build Setup
 
 ``` bash
